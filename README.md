@@ -6,7 +6,15 @@ By Jon Basa
 
 ## Table of Contents
 
-[TOC]
+- [Surviving an Online Course Guide](#surviving-an-online-course-guide)
+  * [About](#about)
+  * [Who it's for](#who-it-s-for)
+- [Chapters](#chapters)
+    + [Misconceptions](../blob/master/LICENSE)
+    + [Truth](../blob/master/LICENSE)
+    + [Advantages](../blob/master/LICENSE)
+    + [Avoiding pitfalls](../blob/master/LICENSE)
+    + [Motivation](../blob/master/LICENSE)
 
 ## About
 
