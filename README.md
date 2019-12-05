@@ -10,11 +10,11 @@ By Jon Basa
   * [About](#about)
   * [Who it's for](#who-it-s-for)
 - [Chapters](#chapters)
-    + [Misconceptions](../blob/master/LICENSE)
-    + [Truth](../blob/master/LICENSE)
-    + [Advantages](../blob/master/LICENSE)
-    + [Avoiding pitfalls](../blob/master/LICENSE)
-    + [Motivation](../blob/master/LICENSE)
+    + [Misconceptions](../blob/master/Misconceptions.md)
+    + [Truth](../blob/master/Truth.md)
+    + [Advantages](../blob/master/Advantages.md)
+    + [Avoiding pitfalls](../blob/master/Tips.md)
+    + [Motivation](../blob/master/Motivation.md)
 
 ## About
 
@@ -26,15 +26,15 @@ This guide is for fellow students picking up an online course as well as ones al
 
 Chapters
 ===
-### [Misconceptions](../blob/master/LICENSE)
+### [Misconceptions](../blob/master/Misconceptions.md)
 
-### [Truth](../blob/master/LICENSE)
+### [Truth](../blob/master/Truth.md)
 
-### [Advantages](../blob/master/LICENSE)
+### [Advantages](../blob/master/Advantages.md)
 
-### [Avoiding pitfalls](../blob/master/LICENSE)
+### [Avoiding pitfalls](../blob/master/Tips.md)
 
-### [Motivation](../blob/master/LICENSE)
+### [Motivation](../blob/master/Motivation.md)
 
 
 
