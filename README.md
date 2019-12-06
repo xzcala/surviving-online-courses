@@ -10,11 +10,11 @@ By Jon Basa
   * [About](#about)
   * [Who it's for](#who-it-s-for)
 - [Chapters](#chapters)
-    + [Misconceptions](../master/Misconceptions.md)
-    + [Truth](../master/Truth.md)
-    + [Advantages](../master/Advantages.md)
-    + [Avoiding pitfalls](../master/Tips.md)
-    + [Motivation](../master/Motivation.md)
+    + [Misconceptions](../master/Chapters/Misconceptions.md)
+    + [Truth](../master/Chapters/Truth.md)
+    + [Advantages](../master/Chapters/Advantages.md)
+    + [Avoiding pitfalls](../master/Chapters/Tips.md)
+    + [Motivation](../master/Chapters/Motivation.md)
 
 ## About
 
@@ -26,18 +26,18 @@ This guide is for fellow students picking up an online course as well as ones al
 
 Chapters
 ===
-### [Misconceptions](../master/Misconceptions.md)
+### [Misconceptions](../master/Chapters/Misconceptions.md)
 
-### [Truth](../master/Truth.md)
+### [Truth](../master/Chapters/Truth.md)
 
-### [Advantages](../master/Advantages.md)
+### [Advantages](../master/Chapters/Advantages.md)
 
-### [Avoiding pitfalls](../master/Tips.md)
+### [Avoiding pitfalls](../master/Chapters/Tips.md)
 
-### [Motivation](../master/Motivation.md)
+### [Motivation](../master/Chapters/Motivation.md)
 
 <br/><br/>
 
-## [Start here](../master/Misconceptions.md)
+## [Start here](../master/Chapters/Misconceptions.md)
 
 ###### tags: `Online learning` `Guide`
