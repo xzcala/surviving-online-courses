@@ -12,5 +12,4 @@ An adequate school-work-life balance is important to keep in mind when signing u
 
 Reflecting on progress can lead to increased motivation, it lets students appreciate how far they have come and all they have learned. Whether things are going well or not, having a retrospective provides students a way to see what is working well, what needs to change, what they have learned, and what to expect in the following week. This is best done weekly and is highly advisable to keep in a routine. Fortunately, this class includes a “Retrospective” section aimed to help students stay in track.
 
-
-### Next section: [Additional Resources](../Chapters/Resources.md)
+### Previous Section: [Motivation](../Chapters/Motivation.md)    ||    Next section: [Additional Resources](../Chapters/Resources.md)
