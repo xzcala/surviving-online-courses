@@ -15,6 +15,7 @@ By Jon Basa
     + [Advantages](../master/Chapters/Advantages.md)
     + [Avoiding pitfalls](../master/Chapters/Tips.md)
     + [Motivation](../master/Chapters/Motivation.md)
+    + [Additional Resources](../master/Chapters/Resources.md)
 
 ## About
 
@@ -35,6 +36,8 @@ Chapters
 ### [Avoiding pitfalls](../master/Chapters/Tips.md)
 
 ### [Motivation](../master/Chapters/Motivation.md)
+
+### [Additional Resources](../master/Chapters/Resources.md)
 
 <br/><br/>
 
