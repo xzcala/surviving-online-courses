@@ -9,4 +9,4 @@ Online courses follow the same curriculum and are still taught by the same profe
 
 Online courses are not for everybody as some thrive in a traditional setting such as those who prefer to participate in class. However, those who are able and willing to take control of their own learning and like to work at their own pace will benefit greatly from taking an online class. For those who like both, some online courses offer students to take part of an in-seat lecture if there are spots in the class. Before registering to an online course, keep in mind of the best learning environment suited for you. 
 
-### Next section: [Advantages](../Chapters/Advantages.md)
+### Previous section: [Motivation](../Chapters/Motivation.md)    ||    Next section: [Advantages](../Chapters/Advantages.md)
