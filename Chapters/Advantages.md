@@ -13,4 +13,4 @@ Each professor has their own teaching method, but an online course means the stu
 
 Taking an online course, or multiple, will challenge a student in ways they can’t imagine. Poor time management will often lead to losing sight of what is due which can be unforgiving to your grades. However, it gives one a chance to improve these skills and become a self-disciplined learner that are very much sought after by future employers. The next section covers ways to build these skills.
 
-### Next section: [Tips](../Chapters/Tips.md)
+### Previous section: [The truth about online courses](../Chapters/Truth.md)    ||    Next section: [Tips](../Chapters/Tips.md)
