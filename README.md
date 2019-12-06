@@ -23,7 +23,7 @@ Online courses could be as difficult, if not more difficult, than lecture classe
 
 ## Who it's for
 
-This guide is for fellow students picking up an online course as well as ones already registered in it. It is not specific to any course, as all online courses pose the same kinds of problems to most students. There are some misconceptions about online courses but knowing how to deal with the tradeoffs will not only help you succeed in an online class, it will provide skills such as time management, goal oriented, and self-driven.
+This guide is for fellow Mizzou students picking up an online course as well as ones already registered in it. It is not specific to any course, as all online courses pose the same kinds of problems to most students. There are some misconceptions about online courses but knowing how to deal with the tradeoffs will not only help you succeed in an online class, it will teach important values such as time management, self-motivation, and setting attainable goals.
 
 Chapters
 ===
