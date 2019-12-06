@@ -14,4 +14,4 @@ Exercise promotes heightened focus, happier moods, increased energy, and a sharp
 
 Finally, joining a student organization should be considered by online students. They can be found [here](https://missouri.campuslabs.com/engage/). Joining an org or club is one of the best ways to enhance student life, allowing you to develop your character such as making friends, developing important skills for careers, and even start networking through the many events and opportunities that come up. 
 
-### End of Guide.
+### Previous Section: [Motivation](../Chapters/Motivation.md)    ||    End of Guide.
