@@ -2,8 +2,7 @@
 
 ## :clock10: Flexibility
 
-The biggest advantage of taking an online course is the flexibility it provides, making scheduling for other classes easier. There is no restriction for when and where you study and could be very beneficial for off campus students. Rather than sitting in a classroom, students can study in the comfort of their own home or even during downtime if they hold a job. 
-
+The biggest advantage of taking an online course is the flexibility it provides, making scheduling for other classes easier. There is no restriction for when and where you study and could be very beneficial for off campus students. Rather than sitting in a classroom, you can study in the comfort of your own home or even during downtime if you hold a job. 
 
 ## :mortar_board: Own experience
 
@@ -11,6 +10,6 @@ Each professor has their own teaching method, but an online course means the stu
 
 ## :100: Skill growth 
 
-Taking an online course, or multiple, will challenge a student in ways they can’t imagine. Poor time management will often lead to losing sight of what is due which can be unforgiving to your grades. However, it gives one a chance to improve these skills and become a self-disciplined learner that are very much sought after by future employers. The next section covers ways to build these skills.
+Taking an online course, or multiple, can challenge you in ways you won’t imagine. Poor time management will often lead to losing sight of what is due which can be unforgiving to your grades. However, it gives you a chance to improve these skills and become a self-disciplined learner that are very much sought after by future employers. The next sections covers ways to build these skills and avoiding pitfalls.
 
 ### Previous section: [The truth about online courses](../Chapters/Truth.md)    ||    Next section: [Tips](../Chapters/Tips.md)
