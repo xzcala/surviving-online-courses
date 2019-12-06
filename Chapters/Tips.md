@@ -1,4 +1,4 @@
-# Avoiding pitfalls
+# Avoiding Pitfalls
 
 ## :clock10: Plan ahead
 
