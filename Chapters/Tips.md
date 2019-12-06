@@ -16,4 +16,4 @@ While there are many sources of information available, it could be easy to get l
 
 Each online course has an instructor that may also have teaching assistants available to help the students. The information to contact these people are always found on the syllabus provided at the beginning of the semester. Saving a bookmark or saving it to your local drive is a good way to reference this information. 
 
-### Next section: [Motivation](../Chapters/Motivation.md)
+### Previous Section: [Advantages](../Chapters/Advantages.md)    ||    Next section: [Motivation](../Chapters/Motivation.md)
